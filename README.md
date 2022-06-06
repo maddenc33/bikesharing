@@ -23,7 +23,7 @@ software:
 
 
 ## RESULTS
-[The results of our analysis have been incorporated into a story on Tableau Public:](https://public.tableau.com/app/profile/christopher.madden/viz/NYC_CitiBike_Visualizations_16544752611810/FinalPresentation?publish=yes)
+The results of our analysis have been incorporated into a story on Tableau Public:[Tableau Public Link](https://public.tableau.com/app/profile/christopher.madden/viz/NYC_CitiBike_Visualizations_16544752611810/FinalPresentation?publish=yes)
 
 ### 1.
 ![IMG1](https://github.com/maddenc33/bikesharing/blob/main/Images/img1.png?raw=true)
