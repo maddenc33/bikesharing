@@ -23,24 +23,27 @@ software:
 
 
 ## RESULTS
-#### The results of our analysis have been incorporated into a [story](https://public.tableau.com/app/profile/christopher.madden/viz/NYC_CitiBike_Visualizations_16544752611810/FinalPresentation?publish=yes) on Tableau Public.
+The results of our analysis have been incorporated into a [story](https://public.tableau.com/app/profile/christopher.madden/viz/NYC_CitiBike_Visualizations_16544752611810/FinalPresentation?publish=yes) on Tableau Public:
 
-
-
+### 1.
 ![IMG1](https://github.com/maddenc33/bikesharing/blob/main/Images/img1.png?raw=true)
 
+### 2.
 ![IMG2](https://github.com/maddenc33/bikesharing/blob/main/Images/img2.png?raw=true)
 
+### 3.
 ![IMG3](https://github.com/maddenc33/bikesharing/blob/main/Images/img3.png?raw=true)
 
+### 4.
 ![IMG4](https://github.com/maddenc33/bikesharing/blob/main/Images/img4.png?raw=true)
 
+### 5.
 ![IMG5](https://github.com/maddenc33/bikesharing/blob/main/Images/img5.png?raw=true)
 
+### 6.
 ![IMG6](https://github.com/maddenc33/bikesharing/blob/main/Images/img6.png?raw=true)
-
+### 7.
 ![IMG7](https://github.com/maddenc33/bikesharing/blob/main/Images/img7.png?raw=true)
-
 
 ## SUMMARY
 The analysis of utilization of bicylces in New York City has given insight into the bike-sharing program.  After having analyzed usage patterns from start and end point, gender, and time of day, we can now predict usage rates relatively accurately.  The morning and afternoon rush hour traffic sees the highest bicycle usage.  Weekend usage is more spread out.  We should continue our analysis to see if there are bike stations that require more bikes, or possibly bike stations that are underused and can be closed down.
