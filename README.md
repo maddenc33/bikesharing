@@ -27,19 +27,19 @@ software:
 
 
 
-[IMG1](Images/img1.png)
+[IMG1](https://github.com/maddenc33/bikesharing/blob/main/Images/img1.png?raw=true)
 
-[IMG2](Images/img2.png)
+[IMG2](https://github.com/maddenc33/bikesharing/blob/main/Images/img2.png?raw=true)
 
-[IMG3](Images/img3.png)
+[IMG3](https://github.com/maddenc33/bikesharing/blob/main/Images/img3.png?raw=true)
 
-[IMG4](Images/img4.png)
+[IMG4](https://github.com/maddenc33/bikesharing/blob/main/Images/img4.png?raw=true)
 
-[IMG5](Images/img5.png)
+[IMG5](https://github.com/maddenc33/bikesharing/blob/main/Images/img5.png?raw=true)
 
-[IMG6](Images/img6.png)
+[IMG6](https://github.com/maddenc33/bikesharing/blob/main/Images/img6.png?raw=true)
 
-[IMG7](Images/img7.png)
+[IMG7](https://github.com/maddenc33/bikesharing/blob/main/Images/img7.png?raw=true)
 
 
 ## SUMMARY
