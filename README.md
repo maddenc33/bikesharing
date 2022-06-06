@@ -27,19 +27,19 @@ software:
 
 
 
-[IMG1](https://github.com/maddenc33/bikesharing/blob/main/Images/img1.png?raw=true)
+![IMG1](https://github.com/maddenc33/bikesharing/blob/main/Images/img1.png?raw=true)
 
-[IMG2](https://github.com/maddenc33/bikesharing/blob/main/Images/img2.png?raw=true)
+![IMG2](https://github.com/maddenc33/bikesharing/blob/main/Images/img2.png?raw=true)
 
-[IMG3](https://github.com/maddenc33/bikesharing/blob/main/Images/img3.png?raw=true)
+![IMG3](https://github.com/maddenc33/bikesharing/blob/main/Images/img3.png?raw=true)
 
-[IMG4](https://github.com/maddenc33/bikesharing/blob/main/Images/img4.png?raw=true)
+![IMG4](https://github.com/maddenc33/bikesharing/blob/main/Images/img4.png?raw=true)
 
-[IMG5](https://github.com/maddenc33/bikesharing/blob/main/Images/img5.png?raw=true)
+![IMG5](https://github.com/maddenc33/bikesharing/blob/main/Images/img5.png?raw=true)
 
-[IMG6](https://github.com/maddenc33/bikesharing/blob/main/Images/img6.png?raw=true)
+![IMG6](https://github.com/maddenc33/bikesharing/blob/main/Images/img6.png?raw=true)
 
-[IMG7](https://github.com/maddenc33/bikesharing/blob/main/Images/img7.png?raw=true)
+![IMG7](https://github.com/maddenc33/bikesharing/blob/main/Images/img7.png?raw=true)
 
 
 ## SUMMARY
